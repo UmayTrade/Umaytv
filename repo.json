@@ -3,6 +3,6 @@
   "description": "Türkçe eklentiler",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/UmayTrade/Umaytv/refs/heads/main/plugin.json"
+    "https://raw.githubusercontent.com/UmayTrade/Umaytv/refs/heads/main/plugins.json"
   ]
 }
