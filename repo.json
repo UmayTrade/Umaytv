@@ -1,7 +1,7 @@
 {
   "name": "Turkish Providers Repo | @Saklimavi",
   "description": "Türkçe eklentiler",
-  "manifestVersion": 1,
+  "manifestVersion": 21,
   "pluginLists": [
     "https://raw.githubusercontent.com/UmayTrade/Umaytv/refs/heads/main/plugins.json"
   ]
