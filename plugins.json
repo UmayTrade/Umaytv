@@ -1,23 +1,23 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
-        "fileSize": 11019,
+        "repositoryUrl": "https://sakultah.org/a",
+        "fileSize": 10000,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "Sakultah"
         ],
         "tvTypes": [
-            "Movie"
+            "Live"
         ],
-        "version": 3,
-        "internalName": "4KFilmIzlesene",
-        "description": "En yeni ve sorunsuz \u26a1  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&amp;#039;nin Tad\u0131n\u0131 \u00c7\u0131kart.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzlesene.cs3",
-        "name": "4KFilmIzlesene"
-    },
+        "version": 1,
+        "internalName": "TRGoals",
+        "description": "TRGoals",
+        "url": "https://sakultah.org/a/TRGoals.cs3",
+        "name": "TRGoals"
+    }
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
