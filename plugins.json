@@ -1,27 +1,27 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://sakultah.org/a",
-        "fileSize": 10000,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 11019,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Sakultah"
+            "nikyokki"
         ],
         "tvTypes": [
-            "Live"
+            "Movie"
         ],
-        "version": 1,
-        "internalName": "TRGoals",
-        "description": "TRGoals",
-        "url": "https://sakultah.org/a/TRGoals.cs3",
-        "name": "TRGoals"
-    }
+        "version": 3,
+        "internalName": "4KFilmIzlesene",
+        "description": "En yeni ve sorunsuz \u26a1  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&amp;#039;nin Tad\u0131n\u0131 \u00c7\u0131kart.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzlesene.cs3",
+        "name": "4KFilmIzlesene"
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21814,
         "status": 1,
         "language": "tr",
@@ -42,7 +42,7 @@
     {
         "iconUrl": "https://www.animeizlesene.com/public/assets/img/favicon-32x32.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 23575,
         "status": 1,
         "language": "tr",
@@ -63,7 +63,7 @@
     {
         "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 24103,
         "status": 1,
         "language": "tr",
@@ -82,7 +82,7 @@
     {
         "iconUrl": "https://animex.tr/wp-content/uploads/2024/06/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 19427,
         "status": 1,
         "language": "tr",
@@ -101,7 +101,7 @@
     {
         "iconUrl": "https://anizm.net/upload/assets/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22588,
         "status": 1,
         "language": "tr",
@@ -120,7 +120,7 @@
     {
         "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14347,
         "status": 1,
         "language": "tr",
@@ -139,7 +139,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21440,
         "status": 1,
         "language": "tr",
@@ -160,7 +160,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18366,
         "status": 1,
         "language": "tr",
@@ -181,7 +181,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18495,
         "status": 1,
         "language": "tr",
@@ -200,8 +200,8 @@
     {
         "iconUrl": "https://cizgivedizi.com/Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
-        "fileSize": 23444,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 23940,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -210,7 +210,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "CizgiveDizi",
         "description": "\u00dccretsiz bir \u015fekilde \u00e7izgi dizi, dizi, anime ve daha fazlas\u0131n\u0131 eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiveDizi.cs3",
@@ -219,7 +219,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 20979,
         "status": 1,
         "language": "tr",
@@ -238,8 +238,8 @@
     {
         "iconUrl": "https://dizifun2.com/images/data/favicon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
-        "fileSize": 30889,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 30888,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -248,7 +248,7 @@
         "tvTypes": [
             "TvSeries, Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "DiziFun",
         "description": "Her Dizi Bir Macera, Her An Bir Ke\u015fif!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziFun.cs3",
@@ -257,7 +257,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17813,
         "status": 1,
         "language": "tr",
@@ -277,7 +277,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18657,
         "status": 1,
         "language": "tr",
@@ -296,8 +296,8 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
-        "fileSize": 26146,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 26228,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -307,7 +307,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "Dizilla",
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
@@ -316,7 +316,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 28809,
         "status": 1,
         "language": "tr",
@@ -335,7 +335,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 29744,
         "status": 1,
         "language": "tr",
@@ -354,7 +354,7 @@
     {
         "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17239,
         "status": 1,
         "language": "tr",
@@ -373,7 +373,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17300,
         "status": 1,
         "language": "tr",
@@ -394,7 +394,7 @@
     {
         "iconUrl": "https://www.diziyo.de/wp-content/uploads/2019/11/favicon-150x150.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17639,
         "status": 1,
         "language": "tr",
@@ -415,7 +415,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14326,
         "status": 1,
         "language": "tr",
@@ -434,7 +434,7 @@
     {
         "iconUrl": "https://filmekseni.net/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18676,
         "status": 0,
         "language": "tr",
@@ -453,7 +453,7 @@
     {
         "iconUrl": "https://filmhane.net/uploads/logo/original/logo-7349.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 16590,
         "status": 1,
         "language": "tr",
@@ -472,7 +472,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17149,
         "status": 1,
         "language": "tr",
@@ -491,7 +491,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18303,
         "status": 1,
         "language": "tr",
@@ -510,7 +510,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14349,
         "status": 1,
         "language": "tr",
@@ -531,7 +531,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14842,
         "status": 1,
         "language": "tr",
@@ -550,7 +550,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 19235,
         "status": 1,
         "language": "tr",
@@ -563,14 +563,14 @@
         ],
         "version": 15,
         "internalName": "FullHDFilm",
-        "description": "Fullhdfilm ile en yeni vizyon film Full HD ve kesintisiz film sizlerle. \u00d6zg\u00fcn film ar\u015fivimizle en \u00fcst\u00fcn kaliteli film izle keyfini sunuyoruz.",
-        "url": "https://raw.githubusercontent.com/UmayTrade/Umaytv/refs/heads/main/FullHDFilm/FullHDFilm.cs3",
+        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. \u00d6zg\u00fcn film ar\u015fivimizle en \u00fcst\u00fcn kaliteli film izle keyfini sunuyoruz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FullHDFilm.cs3",
         "name": "FullHDFilm"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 15286,
         "status": 1,
         "language": "tr",
@@ -589,7 +589,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 29507,
         "status": 1,
         "language": "tr",
@@ -606,9 +606,28 @@
         "name": "FullHDFilmizlesene"
     },
     {
+        "iconUrl": "https://www.giniko.com/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 11018,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "GinikoCanli",
+        "description": "Vpn Gerekli! D\u00fcnyan\u0131n t\u00fcm \u00fclkelerinden \u00fccretsiz \u00e7evrimi\u00e7i TV.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/GinikoCanli.cs3",
+        "name": "GinikoCanli"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22488,
         "status": 1,
         "language": "tr",
@@ -629,7 +648,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 27534,
         "status": 1,
         "language": "tr",
@@ -649,7 +668,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22824,
         "status": 1,
         "language": "tr",
@@ -668,7 +687,7 @@
     {
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 29094,
         "status": 3,
         "language": "tr",
@@ -688,9 +707,28 @@
         "name": "InatBox"
     },
     {
+        "iconUrl": "https://iptvplay.stream/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 11703,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "IpTvPlayStream",
+        "description": "Watch free IPTV channels from around the world.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/IpTvPlayStream.cs3",
+        "name": "IpTvPlayStream"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18669,
         "status": 1,
         "language": "tr",
@@ -709,7 +747,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14617,
         "status": 1,
         "language": "tr",
@@ -728,7 +766,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 12211,
         "status": 1,
         "language": "tr",
@@ -747,7 +785,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 19205,
         "status": 1,
         "language": "tr",
@@ -767,7 +805,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18658,
         "status": 1,
         "language": "tr",
@@ -786,7 +824,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 14853,
         "status": 1,
         "language": "en",
@@ -805,8 +843,8 @@
     {
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
-        "fileSize": 20732,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 20730,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -820,7 +858,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 70,
+        "version": 71,
         "internalName": "RecTV",
         "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/RecTV.cs3",
@@ -829,7 +867,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22482,
         "status": 1,
         "language": "tr",
@@ -848,7 +886,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22074,
         "status": 1,
         "language": "tr",
@@ -868,7 +906,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18729,
         "status": 1,
         "language": "tr",
@@ -888,7 +926,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 13918,
         "status": 1,
         "language": "tr",
@@ -907,7 +945,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18181,
         "status": 1,
         "language": "tr",
@@ -926,7 +964,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 11978,
         "status": 1,
         "language": "tr",
@@ -945,7 +983,7 @@
     {
         "iconUrl": "https://www.trdiziizle.vip/fawn.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 19071,
         "status": 1,
         "language": "tr",
@@ -964,7 +1002,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17194,
         "status": 1,
         "language": "tr",
@@ -983,7 +1021,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21241,
         "status": 1,
         "language": "tr",
@@ -1002,7 +1040,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18707,
         "status": 1,
         "language": "tr",
@@ -1021,7 +1059,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18377,
         "status": 3,
         "language": "en",
@@ -1040,7 +1078,7 @@
     {
         "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 15279,
         "status": 1,
         "language": "en",
@@ -1060,7 +1098,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21872,
         "status": 1,
         "language": "tr",
@@ -1079,7 +1117,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 15375,
         "status": 1,
         "language": "tr",
@@ -1099,7 +1137,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 38923,
         "status": 1,
         "language": "tr",
@@ -1119,7 +1157,7 @@
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
         "jarFileSize": 76378,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/Umaytv",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 15875,
         "status": 1,
         "language": "en",
